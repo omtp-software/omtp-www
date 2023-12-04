@@ -93,6 +93,16 @@ a {
   margin: 0 auto 0;
 }
 
+.contact-method {
+  padding-top: 24px;
+  display: flex;
+  justify-content: center;
+}
+
+.contact-method__discord-widget {
+  margin: 0 auto 0;
+}
+
 .footer {
   padding-top: 100px;
   min-height: 300px;
